@@ -9,4 +9,9 @@ Nuestras edades son:
 18
 
 Ciudad:
-Santiago de Cali
+Santiago de Cali.
+
+Barrio:
+Terrón
+Golondirnas
+Ciudad cordoba.
