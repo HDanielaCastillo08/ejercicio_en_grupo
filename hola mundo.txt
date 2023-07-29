@@ -25,3 +25,8 @@ Animal Fav:
 Perro
 Gato
 Lobo
+
+Comida fav:
+Lasaña
+Manzana
+Pizza
