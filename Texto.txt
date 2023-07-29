@@ -2,4 +2,5 @@ Hola
 Estamos realizando nuestra tercera rama
 con la ayuda del docente hemos usado git de forma adecuada
 
-hemos tenido algunos inconvenientes pero ahi vamos corrigiendo y mejorando
+hemos tenido algunos inconvenientes pero ahi vamos corrigiendo y mejorando.
+para llegar al paso final vamos siguiendo con el proceso 
