@@ -20,3 +20,8 @@ Colo:
 Negro
 Azul
 Blanco
+
+Animal Fav:
+Perro
+Gato
+Lobo
