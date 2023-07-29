@@ -30,3 +30,8 @@ Comida fav:
 Lasaña
 Manzana
 Pizza
+
+Dia:
+7
+10
+2
