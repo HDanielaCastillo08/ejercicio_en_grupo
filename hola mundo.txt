@@ -15,3 +15,8 @@ Barrio:
 Terrón
 Golondirnas
 Ciudad cordoba.
+
+Colo: 
+Negro
+Azul
+Blanco
